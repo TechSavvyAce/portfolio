@@ -1,0 +1,164 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/kommando.jpg",
+            "title": "V3: KOMMANDO",
+            "bodyText": "- **3D Multiplayer FPS Game** using Unreal Engine and integrated **Blockchain(Hedera) technology**.\n -  Designing and Implementing the gameplay mechanics, creating interactive environments.\n",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://store.steampowered.com/app/2089790/V3_KOMMANDO_Tech_Preview/?beta=0"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://www.youtube.com/watch?v=ldTGrrbTfuM"
+                }
+            ],
+            "tags" : [
+                "Unreal Engine",
+                "NFT",
+                "AI Behavior and Pathfinding",
+                "Hedera Integration",
+                "Multiplayer"
+            ]
+        },
+        {
+            "image" : "images/projects/edoverse.jpg",
+            "title": "Edoverse",
+            "bodyText": "- Create character models and animate them using UE tools.\n - Implement a dialogue system to present the story through conversations.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://edoverse.sequin.world/"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://drive.google.com/file/d/1IDwsRE3DITA3XbK55V26xWEB4GflpY6H/view?usp=drive_link"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://drive.google.com/file/d/1gBU4Kw1Zh_4JEH0JwQKA2rqPCgIObwcz/view?usp=drive_link"
+                }
+            ],
+            "tags" : [
+                "Unreal Engine",
+                "Metaverse",
+                "Scenario",
+                "Level Design",
+                "Character Modeling"
+            ]
+        },
+        {
+            "image" : "images/projects/ageofkingdom.jpg",
+            "title": "Age Of Kingdom",
+            "bodyText": "- Proficiency in game development engines like **Unity**.\n - Developing **AI systems** for NPCs and factions to create challenging and dynamic gameplay exp.",
+            "links": [
+                {
+                    "text": "Video",
+                    "href": "https://www.loom.com/share/218fee8b3ef241169e7605470862d260"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "Build & battle",
+                "Casual",
+                "Multiplayer",
+                "Single Player",
+                "Strategy"
+            ]
+        },
+        {
+            "image" : "images/projects/moba.jpg",
+            "title": "Realms of Valor : MOBA",
+            "bodyText": "- Strong command over **Unity** for creating the game environment, characters, and animations..\n - Creating responsive and dynamic **combat systems**, including attacks and interactions.",
+            "links": [
+                {
+                    "text": "Video",
+                    "href": "https://www.loom.com/share/14159ba95c3a4aa0b6ba7d58c13e883e"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "AI Behavior",
+                "Gameplay Balancing",
+                "MOBA"
+            ]
+        },
+        {
+            "image" : "images/projects/dexbattle.jpg",
+            "title": "DexBattle",
+            "bodyText": "- An **DEX** NFT FPS Game developed by Unity.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://dexbattle.com/"
+                },
+                {
+                    "text": "Video",
+                    "href": "https://www.loom.com/share/7ca146cbad0c4a2e9f8f10c4ada032b0"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "NFT",
+                "FPS",
+                "DEX",
+                "BNB Chain"
+            ]
+        },
+        {
+            "image" : "images/projects/gta.jpg",
+            "title": "Grand Theft Auto",
+            "bodyText": "- Proficiency in using **Unity** and designing intricate gameplay systems.\n - Creating complex **AI behaviors** for non-player characters and traffic systems.",
+            "links": [
+                {
+                    "text": "Video",
+                    "href": "https://www.loom.com/share/df3d8e3262c8428d88140447f44a7a97"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "Maya",
+                "DAWs",
+                "AWS",
+                "Jira",
+                "Final Draft"
+            ]
+        },
+        {
+            "image" : "images/projects/tileconnect.jpg",
+            "title": "Tile Connect Travel",
+            "bodyText": "- An level designed 2D Unity Game.\n - Dsigning a user-friendly main menu allowing players to start the game.",
+            "links": [
+                {
+                    "text": "Video",
+                    "href": "https://www.loom.com/share/74952386d9b84d3da450132cb14dfdf6?sid=ef1145c6-d94d-426e-b0c3-d55ecfdd5252"
+                }
+            ],
+            "tags" : [
+                "Unity 2D",
+                "Pixel Art",
+                "DAWs",
+                "C#",
+                "Asana"
+            ]
+        },
+        {
+            "image" : "images/projects/navmariner.jpg",
+            "title": "Navmariner : Wear OS",
+            "bodyText": "- NavMariner **Wear OS** app requires a compatible Wear OS device.\n - Developing with sketch from zero by **Kotlin**.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://navmariner.com/"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Smart Watch",
+                "Wear OS",
+                "NMEA"
+            ]
+        }
+    ]
+}

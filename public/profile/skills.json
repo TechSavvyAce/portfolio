@@ -1,0 +1,93 @@
+{
+  "intro": "I possess advanced expertise in **Unity** and **Unreal Engine** development,\n coupled with a robust understanding of **blockchain** technology. My skill set includes:",
+  "skills": [
+    {
+      "title": "Game Development",
+      "items": [
+        {
+          "icon": "images/skills/unity.png",
+          "title": "Unity"
+        },
+        {
+          "icon": "images/skills/CSharp.png",
+          "title": "C#"
+        },
+        {
+          "icon": "images/skills/unreal engine.png",
+          "title": "Unreal Engine"
+        },
+        
+        {
+          "icon": "images/skills/c-plus-plus.svg",
+          "title": "C++"
+        },
+        {
+          "icon": "images/skills/java.png",
+          "title": "Java"
+        },
+        {
+          "icon": "images/skills/3D.png",
+          "title": "3D Modeling"
+        },
+        {
+          "icon": "images/skills/animation.png",
+          "title": "Animation"
+        }
+      ]
+    },
+    {
+      "title": "Blockchain Development",
+      "items": [
+        {
+          "icon": "images/skills/solidity.svg",
+          "title": "Solidity"
+        },
+        {
+          "icon": "images/skills/rust.png",
+          "title": "Rust"
+        },
+        {
+          "icon": "images/skills/js.png",
+          "title": "JavaScript"
+        },
+        {
+          "icon": "images/skills/nodejs.png",
+          "title": "Node.js"
+        }
+      ]
+    },
+    {
+      "title": "Platforms",
+      "items": [
+        {
+          "icon": "images/skills/ethereum.png",
+          "title": "Ethereum"
+        },
+        {
+          "icon": "images/skills/hedera.png",
+          "title": "Hedera"
+        },
+        {
+          "icon": "images/skills/android-studio.png",
+          "title": "Android"
+        },
+        {
+          "icon": "images/skills/ios.png",
+          "title": "iOS"
+        },
+        {
+          "icon": "images/skills/aws.png",
+          "title": "AWS"
+        },
+        {
+          "icon": "images/skills/azure.png",
+          "title": "Azure"
+        },
+        {
+          "icon": "images/skills/google cloud.png",
+          "title": "Google Cloud"
+        }
+      ]
+    }
+  ]
+}

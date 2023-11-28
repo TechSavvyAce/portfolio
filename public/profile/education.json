@@ -1,0 +1,13 @@
+{
+    "education":[
+        {
+            "title": "Sep 2013 - Jun 2017",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"University of Dallas",
+            "cardDetailedText": "CGPA - 9.5",
+            "icon" : {
+                "src": "images/education/UDallas_seal.png"
+            }
+        }
+    ]
+}

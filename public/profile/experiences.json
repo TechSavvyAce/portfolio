@@ -1,0 +1,26 @@
+{
+    "experiences": [
+        {
+            "title": "Chief Technology Officer",
+            "subtitle": "5zeroinfo",
+            "workType": "Contract",
+            "workDescription": [
+                "Integrated **blockchain** for in-game asset ownership and trading.",
+                "Collaborated with a **team** of developers.",
+                "Designed game systems: **player controls**, **AI behavior**, and **physics simulations**."
+            ],
+            "dateText": "01/2023 – Present"
+        },
+        {
+            "title": "Junior Game Developer",
+            "subtitle": "Immersive Gamebox",
+            "workType": "Full Time",
+            "workDescription": [
+                "Aided senior developers in implementing game features using **Unity** and **Unreal Engine**.",
+                "Engaged in code reviews, offering constructive feedback to enhance code quality.",
+                "Explored and implemented **blockchain** for a proof-of-concept game project."
+            ],
+            "dateText": "06/2017 – 12/2022"
+        }
+    ]
+}
