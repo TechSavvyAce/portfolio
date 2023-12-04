@@ -213,15 +213,15 @@ It has 2 keys, *logo* and *sections*.
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "www.linkedin.com/in/john-tilley-179296268"
         },
         {
             "network" : "github",
-            "href": "https://github.com/"
+            "href": "https://github.com/TechSavvyAce"
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "mailto:john0817tilley@gmail.com"
         }
     ]
 }
