@@ -5,6 +5,10 @@
             "href": "https://www.linkedin.com/in/john-tilley-179296268"
         },
         {
+            "network" : "discord",
+            "href": "https://discordapp.com/users/287454182246580235"
+        },
+        {
             "network" : "github",
             "href": "https://github.com/TechSavvyAce"
         },
@@ -13,7 +17,7 @@
             "href": "mailto:john0817tilley@gmail.com"
         },
         {
-            "network" : "calendly",
+            "network" : "sharethis",
             "href": "https://calendly.com/johntilley/interview-with-business"
         }
     ]
