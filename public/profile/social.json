@@ -11,6 +11,10 @@
         {
             "network" : "email",
             "href": "mailto:john0817tilley@gmail.com"
+        },
+        {
+            "network" : "calendly",
+            "href": "https://calendly.com/johntilley/interview-with-business"
         }
     ]
 }
